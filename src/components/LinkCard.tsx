@@ -6,7 +6,9 @@ type Props = {
   href: string;
 };
 
-export default function LinkCard({ imageSrc, title, description, buttonText, href }: Props) {
+export default function LinkCard({ imageSrc, title, description, 
+  // buttonText, href 
+}: Props) {
   return (
     <div className="rounded-2xl border border-zinc-200 bg-white p-4 shadow-sm">
       <div className="overflow-hidden rounded-xl">
