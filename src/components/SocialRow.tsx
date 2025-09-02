@@ -11,7 +11,7 @@ const socials = [
   { icon: FaInstagram, href: "https://www.instagram.com/haisown.t/", label: "Instagram" },
   { icon: FaGithub, href: "https://github.com/for-everyoung12", label: "GitHub" },
   { icon: FaLinkedin, href: "https://www.linkedin.com/in/h%E1%BA%A3i-s%C6%A1n-tr%E1%BA%A7n-123795281/", label: "LinkedIn" },
-  { icon: FaEnvelope, href: "haison121202@gmail.com", label: "Email" }
+  { icon: FaEnvelope, href: "mailto:haison121202@gmail.com", label: "Email" }
 ];
 
 export function SocialRow() {
