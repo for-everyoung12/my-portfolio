@@ -1,6 +1,6 @@
 import { MotionConfig, motion, type Variants } from "framer-motion";
 import { SocialRow } from "./components/SocialRow";
-import LinkCard from "./components/LinkCard";
+// import LinkCard from "./components/LinkCard";
 
 const shell: Variants = {
   hidden: { opacity: 0 },
